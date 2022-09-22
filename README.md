@@ -12,7 +12,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/seungbin-nam-149601251/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/87287709/191726773-823da87d-3f23-445b-83d7-ded1202043a1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://www.notion.so/BUMBALL_MAKER-b81e0c5ec9de49219f71df747440bbb2"><img width="32px" alt="Notion" title="Notion" src="https://user-images.githubusercontent.com/87287709/191731335-a0759d06-6d22-4714-a7bc-55c7db8fc5e0.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
