@@ -37,7 +37,17 @@ you can find me on github blog or on linkedin<br>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
+__💡ɢᴀᴍᴇ ᴇɴɢɪɴᴇ__<br/><br/>
+![Unity](https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white)&nbsp;![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white) &nbsp;![CoCos2D](https://img.shields.io/badge/CoCos-55C2E1?style=for-the-badge&logo=CoCos&logoColor=white) <br/>
+<br/>
+__💡ʟᴀɴɢᴜᴀɢᴇ__<br/><br/>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black)&nbsp;![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/C%20Sharp-239120?style=for-the-badge&logo=CSharp&logoColor=white) &nbsp;![MarkDown](https://img.shields.io/badge/Mark%20Down-000000?style=for-the-badge&logo=Markdown&logoColor=white) <br/>
 
+
+
+---
+
+# Github Stacks
   
 __📌Visit Count__<br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBumBall-Maker&count_bg=%23CE1FC7&title_bg=%2312BCC2&icon=github.svg&icon_color=%23FFFFFF&title=Visit+Count&edge_flat=true)](https://hits.seeyoufarm.com)<br/><br/>
@@ -48,16 +58,9 @@ __📅Git_Status__<br/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BumBall-Maker&layout=compact&bg_color=30,E41076,3A034B&title_color=fff&text_color=fff">
 </a></p>
 
-# Github Stacks
-
-__💡ɢᴀᴍᴇ ᴇɴɢɪɴᴇ__<br/><br/>
-![Unity](https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white)&nbsp;![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white) &nbsp;![CoCos2D](https://img.shields.io/badge/CoCos-55C2E1?style=for-the-badge&logo=CoCos&logoColor=white) <br/>
-<br/>
-__💡ʟᴀɴɢᴜᴀɢᴇ__<br/><br/>
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black)&nbsp;![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/C%20Sharp-239120?style=for-the-badge&logo=CSharp&logoColor=white) &nbsp;![MarkDown](https://img.shields.io/badge/Mark%20Down-000000?style=for-the-badge&logo=Markdown&logoColor=white) <br/>
-
 <p align = "center">
  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=BumBall-Maker&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
   <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=BumBall-Maker&theme=redical">
 </p> 
 
+---
