@@ -37,7 +37,7 @@ you can find me on github blog or on linkedin<br>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-  # 💾𝐆𝐢𝐭 𝐏𝐫𝐨𝐟𝐢𝐥𝐞💾
+
   
 __📌Visit Count__<br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBumBall-Maker&count_bg=%23CE1FC7&title_bg=%2312BCC2&icon=github.svg&icon_color=%23FFFFFF&title=Visit+Count&edge_flat=true)](https://hits.seeyoufarm.com)<br/><br/>
@@ -48,7 +48,7 @@ __📅Git_Status__<br/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BumBall-Maker&layout=compact&bg_color=30,E41076,3A034B&title_color=fff&text_color=fff">
 </a></p>
 
-# ⚙️𝐌𝐲 𝐒𝐭𝐚𝐜𝐤𝐬⚙️
+# Github Stacks
 
 __💡ɢᴀᴍᴇ ᴇɴɢɪɴᴇ__<br/><br/>
 ![Unity](https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white)&nbsp;![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white) &nbsp;![CoCos2D](https://img.shields.io/badge/CoCos-55C2E1?style=for-the-badge&logo=CoCos&logoColor=white) <br/>
