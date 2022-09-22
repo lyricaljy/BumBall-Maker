@@ -49,8 +49,11 @@ __💡ʟᴀɴɢᴜᴀɢᴇ__<br/><br/>
 
 # Github Stacks
   
+<div align=center>  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBumBall-Maker&count_bg=%23CE1FC7&title_bg=%2312BCC2&icon=github.svg&icon_color=%23FFFFFF&title=Visit+Count&edge_flat=true)](https://hits.seeyoufarm.com)<br/>
+
+</div>
 
 <p align = center>
  <a href="https://bumball-maker.github.io/">
