@@ -13,7 +13,7 @@ __📌Visit Count__<br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBumBall-Maker&count_bg=%23CE1FC7&title_bg=%2312BCC2&icon=github.svg&icon_color=%23FFFFFF&title=Visit+Count&edge_flat=true)](https://hits.seeyoufarm.com)<br/><br/>
 __📅Git_Status__<br/>
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IIBluEll&show_icons=true&include_all_commits=true&bg_color=30,8FCCBA,B8D0C5&title_color=fff&text_color=fff"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIBluEll&layout=compact&bg_color=30,8FCCBA,B8D0C5&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BumBall-Maker&show_icons=true&include_all_commits=true&bg_color=30,E41076,3A034B&title_color=fff&text_color=fff"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BumBall-Maker&layout=compact&bg_color=30,E41076,3A034B&title_color=fff&text_color=fff">
 </p>
 
 # ⚙️𝐌𝐲 𝐒𝐭𝐚𝐜𝐤𝐬⚙️
