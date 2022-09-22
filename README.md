@@ -5,7 +5,7 @@
 ---
 
 # Hello, EveryOne! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My Name is SeungBin Nam and I'm Unity Developer % Technical Artist. I'm from Republic of Korea, living in Seoul.<br>
+My Name is SeungBin Nam and I'm Unity Developer & Technical Artist. I'm from Republic of Korea, living in Seoul.<br>
 I like to learn and I like to try new things<br>
 But at the same time, I want to create a program that is more complete than creating something extraordinary<br>
 you can find me on github blog or on linkedin<br>
@@ -31,16 +31,16 @@ you can find me on github blog or on linkedin<br>
 <table align=center>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+      <a href="# Technology Stacks">
+        <img src="https://user-images.githubusercontent.com/87287709/191781425-4ffa93ad-7321-459d-b149-f9d36ac7000c.svg" width="48" height="48" alt="HTML5" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Python
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -50,13 +50,13 @@ you can find me on github blog or on linkedin<br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://user-images.githubusercontent.com/87287709/191778468-58f092e8-2de5-40cf-ae6e-0b58dcd02afe.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>Jsonnet
+      <br>C#&nbsp;(Unity)
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://user-images.githubusercontent.com/87287709/191779855-988a2391-ed29-4f1f-89a9-ab710fa059ea.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
@@ -80,9 +80,9 @@ you can find me on github blog or on linkedin<br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="https://user-images.githubusercontent.com/87287709/191779459-c00dbfd1-e98a-4257-88ee-47d2d052eb6f.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Sass
+      <br>Python
     </td>
   </tr>
   <tr>
@@ -106,15 +106,15 @@ you can find me on github blog or on linkedin<br>
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="https://user-images.githubusercontent.com/87287709/191783843-e6488ef6-87de-4076-9e04-681bdca04469.svg" width="48" height="48" alt="OCULUS" />
       </a>
-      <br>RHEL
+      <br>OCULUS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="https://user-images.githubusercontent.com/87287709/191784318-c271a788-3a10-4b05-8494-3e4c52e80978.png" width="48" height="48" alt="ARCore" />
       </a>
-      <br>Powershell
+      <br>ARCore
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
@@ -136,9 +136,9 @@ you can find me on github blog or on linkedin<br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+        <img src="https://user-images.githubusercontent.com/87287709/191780377-30a05728-733c-4b48-ada1-777d7b322c87.svg" width="48" height="48" alt="GitHub" />
       </a>
-      <br>Thanos
+      <br>GitHub
     </td>
   </tr>
 </table>
