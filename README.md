@@ -5,7 +5,19 @@
 ---
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
+<p align="center">
+  <a href="https://bumball-maker.github.io/"><img width="32px" alt="GitHub Blog" title="GitHub Blog" src="https://user-images.githubusercontent.com/87287709/191725191-c634a75b-1dbb-4518-bce2-54bb96e2e8ed.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/87287709/191726139-49455a2a-25e8-4809-9845-13cba8926343.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://user-images.githubusercontent.com/87287709/191726773-823da87d-3f23-445b-83d7-ded1202043a1.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+</p>
 ---
 
   # 💾𝐆𝐢𝐭 𝐏𝐫𝐨𝐟𝐢𝐥𝐞💾
