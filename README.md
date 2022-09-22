@@ -1,19 +1,16 @@
-<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Soft&color=0:8FCCBA,100:B8D0C5&height=250&section=header&text=Lee%20Hyun%20Min&fontSize=120&animation=twinkling&fontColor=ceec90)
 
-  
-__📬𝐸𝑀𝒜𝐼𝐿📬__<br/>
-hmlee4135@naver.com<br/>
+<div> <img src = https://user-images.githubusercontent.com/87287709/191685869-8eb373ba-2e79-4362-b01a-74ffa417b37a.gif style="width: 1100px; height: 500px;"> </div>
 
-반갑습니다! 👏👏 <br/>
-제 이름은 이현민이고, 현재 게임 개발을 공부하고 있습니다. <br/>
-아직 많이 부족하지만 최선을 다하겠습니다!<br/>
+---
+<br>인삿말</br>
+
+---
 
   # 💾𝐆𝐢𝐭 𝐏𝐫𝐨𝐟𝐢𝐥𝐞💾
   
 __📌Visit Count__<br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIIBluEll&count_bg=%239BCFC7&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visit+Count&edge_flat=true)](https://hits.seeyoufarm.com)<br/><br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBumBall-Maker&count_bg=%23CE1FC7&title_bg=%2312BCC2&icon=github.svg&icon_color=%23FFFFFF&title=Visit+Count&edge_flat=true)](https://hits.seeyoufarm.com)<br/><br/>
 __📅Git_Status__<br/>
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IIBluEll&show_icons=true&include_all_commits=true&bg_color=30,8FCCBA,B8D0C5&title_color=fff&text_color=fff"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIBluEll&layout=compact&bg_color=30,8FCCBA,B8D0C5&title_color=fff&text_color=fff">
@@ -31,5 +28,5 @@ __참고 블로그 :__ <https://kimasill.tistory.com/entry/Github-%EA%B9%83%ED%9
   __Head 캡슐렌더 :__ <https://github.com/kyechan99/capsule-render#color><br/>
   __GitStatus :__ <https://github.com/anuraghazra/github-readme-stats#common-options><br/>
   
-</div>
+
 
