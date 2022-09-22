@@ -3,7 +3,12 @@
 <div> <img src = https://user-images.githubusercontent.com/87287709/191685869-8eb373ba-2e79-4362-b01a-74ffa417b37a.gif style="width: 1100px; height: 500px;"> </div>
 
 ---
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+# Hello, EveryOne! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My Name is SeungBin Nam and I'm Unity Developer % Technical Artist. I'm from Republic of Korea, living in Seoul.<br>
+I like to learn and I like to try new things<br>
+But at the same time, I want to create a program that is more complete than creating something extraordinary<br>
+you can find me on github blog or on linkedin<br>
 
 <p align="center">
   <a href="https://bumball-maker.github.io/"><img width="32px" alt="GitHub Blog" title="GitHub Blog" src="https://user-images.githubusercontent.com/87287709/191725191-c634a75b-1dbb-4518-bce2-54bb96e2e8ed.png"/></a>
@@ -20,6 +25,7 @@
 </p>
 
 ---
+
 # Technology Stacks
 <p align="center">
 <img src="https://img.shields.io/badge/C#-00599C?style=flat-square&logo=c#&logoColor=white"/>
