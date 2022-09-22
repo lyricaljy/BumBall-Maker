@@ -3,7 +3,8 @@
 <div> <img src = https://user-images.githubusercontent.com/87287709/191685869-8eb373ba-2e79-4362-b01a-74ffa417b37a.gif style="width: 1100px; height: 500px;"> </div>
 
 ---
-<br>인삿말</br>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 ---
 
