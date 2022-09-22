@@ -18,7 +18,18 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
+
 ---
+# Skills
+<p align="center">
+<img src="https://img.shields.io/badge/C#-00599C?style=flat-square&logo=c#&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
 
   # 💾𝐆𝐢𝐭 𝐏𝐫𝐨𝐟𝐢𝐥𝐞💾
   
