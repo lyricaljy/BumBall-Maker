@@ -1,6 +1,6 @@
 <div style="heght:100%; weight:100%; background-color: white">
 
-<div> <img src = https://user-images.githubusercontent.com/87287709/191685869-8eb373ba-2e79-4362-b01a-74ffa417b37a.gif style="width: 1100px; height: 500px;"> </div>
+<div> <img src = https://user-images.githubusercontent.com/105025984/191936314-92a761ab-ac84-40e0-bc73-835f5f408f51.jpg style="width: 1100px; height: 500px;"> </div>
 
 ---
 
@@ -11,7 +11,7 @@ But at the same time, I want to create a program that is more complete than crea
 you can find me on github blog or on linkedin<br>
 
 <p align="center">
-  <a href="https://bumball-maker.github.io/"><img width="32px" alt="GitHub Blog" title="GitHub Blog" src="https://user-images.githubusercontent.com/87287709/191725191-c634a75b-1dbb-4518-bce2-54bb96e2e8ed.png"/></a>
+  <a href="https://blog.naver.com/punky_rocker/"><img width="32px" alt="GitHub Blog" title="GitHub Blog" src="https://user-images.githubusercontent.com/105025984/191937107-2468ca7d-19ca-4b20-8990-b29eb3aaec43.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:bigwatermoon@naver.com"><img width="32px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/87287709/191726139-49455a2a-25e8-4809-9845-13cba8926343.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
