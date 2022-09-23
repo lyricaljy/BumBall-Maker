@@ -1,4 +1,4 @@
-
+<div style="heght:100%; weight:100%; background-color: white">
 
 <div> <img src = https://user-images.githubusercontent.com/87287709/191685869-8eb373ba-2e79-4362-b01a-74ffa417b37a.gif style="width: 1100px; height: 500px;"> </div>
 
@@ -167,3 +167,4 @@ you can find me on github blog or on linkedin<br>
 </p> 
 
 ---
+</div>
