@@ -161,7 +161,7 @@ you can find me on github blog or on linkedin<br>
 </a></p>
 
 <p align = "center">
- <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=BumBall-Maker&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BumBall-Maker&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
  <br></br>
  <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=BumBall-Maker&theme=redical">
 </p> 
