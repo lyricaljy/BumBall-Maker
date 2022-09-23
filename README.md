@@ -38,15 +38,15 @@ you can find me on github blog or on linkedin<br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="CSS" />
+        <img src="" width="48" height="48" alt="TBA" />
       </a>
-      <br>CSS
+      <br>TBA
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="" width="48" height="48" alt="TBA" />
       </a>
-      <br>Go
+      <br>TBA
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -62,21 +62,21 @@ you can find me on github blog or on linkedin<br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="" width="48" height="48" alt="TBA" />
       </a>
-      <br>JavaScript
+      <br>TBA
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="" width="48" height="48" alt="TBA" />
       </a>
-      <br>React
+      <br>TBA
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="" width="48" height="48" alt="TBA" />
       </a>
-      <br>Bootstrap
+      <br>TBA
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -100,9 +100,9 @@ you can find me on github blog or on linkedin<br>
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="" width="48" height="48" alt="TBA" />
       </a>
-      <br>Debian
+      <br>TBA
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
@@ -125,9 +125,9 @@ you can find me on github blog or on linkedin<br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="" width="48" height="48" alt="TBA" />
       </a>
-      <br>Grafana
+      <br>TBA
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
