@@ -94,9 +94,9 @@ you can find me on github blog or on linkedin<br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://user-images.githubusercontent.com/87287709/191899620-f2f8b65f-08c8-4ca3-a285-3f807c3e0921.svg" width="48" height="48" alt="Kotlin" />
       </a>
-      <br>Kubernetes
+      <br>Kotlin
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
@@ -118,9 +118,9 @@ you can find me on github blog or on linkedin<br>
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://user-images.githubusercontent.com/87287709/191901434-a4941b82-3edf-4a56-af3a-5d9e2baf42a9.png" width="48" height="48" alt="Voxel" />
       </a>
-      <br>MySQL
+      <br>Voxel
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -130,9 +130,9 @@ you can find me on github blog or on linkedin<br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+        <img src="https://user-images.githubusercontent.com/87287709/191899997-e7509447-caa2-4901-8170-c895788f9045.svg" width="48" height="48" alt="Vue.js" />
       </a>
-      <br>Prometheus
+      <br>Vue.js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
