@@ -32,15 +32,15 @@ you can find me on github blog or on linkedin<br>
   <tr>
     <td align="center" width="96">
       <a href="# Technology Stacks">
-        <img src="https://user-images.githubusercontent.com/87287709/191781425-4ffa93ad-7321-459d-b149-f9d36ac7000c.svg" width="48" height="48" alt="HTML5" />
+        <img src="https://user-images.githubusercontent.com/87287709/191904241-efa0a022-329e-42e8-b7ce-6a2f22975f2b.svg" width="48" height="48" alt="HTML5" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="TypeScript" />
+        <img src="" width="48" height="48" alt="CSS" />
       </a>
-      <br>TypeScript
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -88,9 +88,9 @@ you can find me on github blog or on linkedin<br>
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://user-images.githubusercontent.com/87287709/191904318-50d57939-bf1e-45a0-b4b9-c6dc8fc03040.svg" width="48" height="48" alt="CSS" />
       </a>
-      <br>Docker
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -120,7 +120,8 @@ you can find me on github blog or on linkedin<br>
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/87287709/191901434-a4941b82-3edf-4a56-af3a-5d9e2baf42a9.png" width="48" height="48" alt="Voxel" />
       </a>
-      <br>Voxel
+      <br>VoxEdit
+      <br>MagicaVoxel
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
